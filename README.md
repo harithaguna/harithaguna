@@ -24,7 +24,7 @@ I'm enthusiastic about collaborative projects that involve:
 I'm always up for discussions on:
 
 - Coding Challenges-Let's solve it together!
-- Tech Stack Questions about Java, Python, Angular, or any other technologies in my toolbox.
+- Tech Stack Questions about Java, Python, Angular, or any other technologies in my toolbox
 - General Tech Discussions
   
 #### 📫 How to reach me:
@@ -32,5 +32,9 @@ I'm always up for discussions on:
 - GitHub: https://github.com/harithaguna
 - LinkedIn: https://www.linkedin.com/in/harithaguna/
 - Email: harithaguna03@gmail.com
+
+### 👩‍💻Coding Profiles:
+- LeetCode: [harithaguna03](https://leetcode.com/harithaguna03/)
+- Coding Ninjas:[Haritha03](https://www.codingninjas.com/studio/profile/Haritha03)
 
 Let's code together and make an impact! 🌟
