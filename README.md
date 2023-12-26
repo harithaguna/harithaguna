@@ -4,7 +4,6 @@ I'm  **Haritha Gunasekaran**, a passionate CSE grad with a love for coding and p
 
 🌐 **Intern:** Logic Research Labs & CogniAI  
 🚀 **Tech Stack:** Java, Python, Angular [HTML,CSS,JS] ,PHP,MySQL 
-
 🔍 **Passion:** Problem Solving  
 
 #### 🌱 Currently learning:
