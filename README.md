@@ -16,9 +16,10 @@ I'm enthusiastic about collaborative projects that involve:
   
 #### 📫 How to reach me:
 
-- GitHub   : https://github.com/harithaguna
-- LinkedIn : https://www.linkedin.com/in/harithaguna/
-- Email    : harithaguna03@gmail.com
+- GitHub    : https://github.com/harithaguna
+- LinkedIn  : https://www.linkedin.com/in/harithaguna/
+- Portfolio : https://harithaguna.github.io/PersonalPortfolio/
+- Email     : harithaguna03@gmail.com
 
 ### 👩‍💻Coding Profiles:
 - LeetCode      : [harithaguna03](https://leetcode.com/harithaguna03/)
