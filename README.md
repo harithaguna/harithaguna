@@ -18,7 +18,6 @@ I'm enthusiastic about collaborative projects that involve:
 
 - GitHub    : https://github.com/harithaguna
 - LinkedIn  : https://www.linkedin.com/in/harithaguna/
-- Portfolio : https://harithaguna.github.io/PersonalPortfolio/
 - Email     : harithaguna03@gmail.com
 
 ### 👩‍💻Coding Profiles:
