@@ -24,4 +24,7 @@ I'm enthusiastic about collaborative projects that involve:
 - LeetCode      : [harithaguna03](https://leetcode.com/harithaguna03/)
 - Coding Ninjas : [Haritha03](https://www.codingninjas.com/studio/profile/Haritha03)
 
+### Badges:
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+
 Let's code together and make an impact! 🌟
